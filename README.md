@@ -1,3 +1,13 @@
+# Users Authentication Typescript
+
+## Technologies used:
+
+- Typescript
+- Express
+- MongoDB
+- Mongoose
+- Passport
+
 ## Instruccions to run this project.
 
 ```javascript
