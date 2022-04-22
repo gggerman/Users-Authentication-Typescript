@@ -1,4 +1,5 @@
 # Users Authentication Typescript
+Project made for learning purposes to practice Typescript, Mongoose and Authentication.
 
 ## Technologies used:
 
